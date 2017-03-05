@@ -1,1 +1,3 @@
 Some binaries are added now
+
+Delete exe-files (they will stored in git history anyway)
